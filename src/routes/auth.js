@@ -42,7 +42,7 @@ authRouter.post("/signup", async (req, res) => {
     res.cookie("token", token, {
       expires: new Date(Date.now() + 8 * 3600000),
     });
-
+//catch and try block use for error handling
     res.json({ message: "User Added successfully!", data: savedUser });
   } catch (error) {
     if (error.code === 11000) {
