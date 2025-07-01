@@ -137,7 +137,13 @@ Licensed under the **ISC License**.
 
 ## 👨‍💻 Author
 
-Created by **Naman Kumar**
+Created by **Aditya Singh**
 
 - GitHub: [@aditya-8787](https://github.com/aditya-8787)
 - LinkedIn: [Aditya Singh](https://www.linkedin.com/in/aditya8787/)
+## 🙏 Acknowledgments
+
+🔹 Basic project structure inspired by [Naman](https://github.com/Naman-NITA).  
+🔹 UI components extended from open-source Tailwind + DaisyUI examples.
+
+ 🔄 Deployment in Progress: The live version of this project is currently being finalized and will be available soon.
