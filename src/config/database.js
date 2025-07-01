@@ -13,7 +13,7 @@
  const connectDB = async () => {
      
   await mongoose.connect(
-    "mongodb+srv://namank89123:v3gZaTt5BO2mJDxk@cluster0.kmg6hgs.mongodb.net/Dev" 
+    "mongodb+srv://aditya7776jnp:EEv1eHoLgWAgUSQr@devtinder.ueprqsb.mongodb.net/" 
   );
  }; 
 
